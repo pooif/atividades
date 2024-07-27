@@ -4,7 +4,7 @@ Monorepo com todas as atividades de Programação Orientada a Objetos.
 
 Para criar sua cópia deste repositório clique no link do GitHub Classroom abaixo e aceite a atividade (Accept Assignment):
 
-<b><https://classroom.github.com/a/1iMFXRfb></b>
+<b><https://classroom.github.com/a/YfKo4VWA></b>
 
 As atividades estão organizadas em grupos temáticos, conhecimentos e habilidades exercitadas, numeradas de 1 a 8, sendo:
 
