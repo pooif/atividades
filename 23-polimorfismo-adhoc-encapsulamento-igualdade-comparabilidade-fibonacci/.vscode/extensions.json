@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "vscjava.vscode-java-pack",
+    "EditorConfig.EditorConfig",
+    "usernamehw.errorlens",
+    "ms-vscode.atom-keybindings",
+  ]
+}
